@@ -33,4 +33,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielADSouza&show_icons=true&locale=en&layout=compact&theme=dark" alt="GabrielADSouza" /></p>
 
-![Snake animation] https://github.com/GabrielADSouza/
+![Snake animation](https://github.com/GabrielADSouza/blob/output/github-contribution-grid-snake.svg)
