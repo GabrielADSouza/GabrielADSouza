@@ -26,9 +26,3 @@
 <h3 align="center">:fire: My Stats:</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielADSouza&theme=dark" alt="GabrielADSouza" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielADSouza&show_icons=true&locale=en&theme=dark" alt="GabrielADSouza" /></p>
-
-<h3 align="center">Most Used Languages:</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielADSouza&show_icons=true&locale=en&layout=compact&theme=dark" alt="GabrielADSouza" /></p>
